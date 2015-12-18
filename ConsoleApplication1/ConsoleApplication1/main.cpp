@@ -2,7 +2,10 @@
 
 int main()
 {
-	printf("Hello World!");
+	printf("Hello Sean!");
 	printf("2015-12-18 22:03");
+
+	printf("3rd rewrite!");
+
 	return 0;
 }
