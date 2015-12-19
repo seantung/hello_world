@@ -7,5 +7,7 @@ int main()
 
 	printf("3rd rewrite!");
 
+#di 4ci xiugai
+
 	return 0;
 }
