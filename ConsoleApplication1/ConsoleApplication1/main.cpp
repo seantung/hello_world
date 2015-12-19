@@ -6,10 +6,6 @@ int main()
 	printf("2015-12-18 22:03");
 
 	printf("3rd rewrite!");
-
-#di 4ci xiugai
-
-	5ed rewrite;
-
+	getchar();
 	return 0;
 }
