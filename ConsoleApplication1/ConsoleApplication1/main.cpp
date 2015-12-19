@@ -9,5 +9,7 @@ int main()
 
 #di 4ci xiugai
 
+	5ed rewrite;
+
 	return 0;
 }
